@@ -4,7 +4,9 @@ To run this file two types of images are needed: original image and correspondin
 
 Both the paths of original images and mask images and csv filenames can be changed accordingly
 
-A small dataset is uploaded under dataset folder as an example.
+Small sample set of mask images and original images are uploaded under dataset folder as an example.
+
+Two csv files in dataset folder represents the filenames of mask and original images.
 
 Threshold data for computing hem length is also uploaded as threhold_data
 
