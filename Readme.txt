@@ -6,6 +6,4 @@ Both the paths of original images and mask images and csv filenames can be chang
 
 A small dataset is given as an example. 
 
-This main.ipynb file predicts the given image and further saves the cropping images for neckline prediction.
-
-Once the cropped images are saved run CNN_Neckline_Prediction.py file to predict neckline types.
+Once the image and corresponding mask images paths are given, Main.ipynb file predicts hem type, hem length and sleeve length for the given image
